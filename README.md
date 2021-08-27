@@ -1,5 +1,7 @@
 # download_proj.py
 
+[![CI](https://github.com/d3r3kk/base_download_proj.py/actions/workflows/ci.yml/badge.svg?event=push)](https://github.com/d3r3kk/base_download_proj.py/actions/workflows/ci.yml)
+
 The base for a Python project that requires a list of downloaded files.
 
 ## Usage
