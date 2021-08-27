@@ -1,0 +1,10 @@
+{
+    "downloads": {
+        "file_group_1": {
+            "license.txt": "https://raw.githubusercontent.com/d3r3kk/base_download_proj.py/main/LICENSE"
+        },
+        "file_group_2": {
+            "base_download_proj.py.zip": "https://github.com/d3r3kk/base_download_proj.py/archive/refs/heads/main.zip"
+        }
+    }
+}

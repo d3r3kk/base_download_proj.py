@@ -1,0 +1,16 @@
+[tool.pytest.ini_options]
+norecursedirs = ".git"
+addopts = "--cov-report=html --cov-report=html --junitxml=junit/TEST-pytest.xml --cov-config=pyproject.toml"
+
+[coverage]
+
+[report]
+fail_under = 92.9
+show_missing = true
+
+[run]
+branch = true
+omit = ['.venv/*']
+
+[tool.mypy]
+files = "download_proj.py"
